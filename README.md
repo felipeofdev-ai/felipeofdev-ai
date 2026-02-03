@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Felipe Fernandes 👋
 
-<!--
-**felipeofdev-ai/felipeofdev-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Python Developer focused on Backend, Automation, APIs and Generative AI.
 
-Here are some ideas to get you started:
+I build practical and scalable solutions using Python, with a strong focus on real-world applications.
+Currently developing projects involving LLMs, AI-powered automation and backend systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Tech Stack
+
+- **Language:** Python
+- **Backend:** FastAPI, Flask, Django
+- **Databases:** PostgreSQL, MySQL, SQLite
+- **APIs:** REST, JWT Authentication
+- **Generative AI:** Prompt Engineering, LLM APIs, RAG
+- **Tools:** Git, GitHub, Docker, Linux
+
+---
+
+## 📂 Projects
+
+- Backend APIs with FastAPI
+- Python Automation Scripts
+- Generative AI Experiments
+
+Check my repositories below 👇
+
+---
+
+## 📫 Contact
+
+- LinkedIn: https://www.linkedin.com/in/felipe-de-oliveira-fernandes-941763110
