@@ -45,12 +45,11 @@ business = ["Power BI", "Excel Advanced", "Data Analysis", "Process Automation"]
 
 <div align="center">
 
-<a href="https://github.com/felipeofdev-ai">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeofdev-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeofdev-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api?username=felipeofdev-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true&count_private=true" alt="GitHub Stats" width="495"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=felipeofdev-ai&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=felipeofdev-ai&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" alt="GitHub Streak" width="495"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipeofdev-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages" width="495"/>
 
 </div>
 
@@ -60,24 +59,24 @@ business = ["Power BI", "Excel Advanced", "Data Analysis", "Process Automation"]
 
 <div align="center">
 
-| Metric | Value | Focus |
-|--------|-------|-------|
-| **Active Development** | Daily commits | 🟢 |
-| **Public Repositories** | 8 projects | 🎯 |
-| **Primary Stack** | Python • FastAPI • AI/ML | 💻 |
-| **Code Quality** | Production-ready, tested | ✅ |
-| **Documentation** | Comprehensive READMEs | 📚 |
+| Metric | Value | Status |
+|--------|-------|--------|
+| **Total Contributions** | 126+ | 🟢 Active |
+| **Current Streak** | 3 days | 🔥 Building |
+| **Longest Streak** | 3 days | 📈 Growing |
+| **Public Repos** | 8 | 🎯 Curated |
+| **Code Focus** | Python, SQL, AI/ML | 💻 Specialized |
 
 </div>
 
 ```python
-# Development Philosophy
-philosophy = {
-    "quality_over_quantity": True,
-    "production_mindset": "Every commit should be shippable",
-    "learning_style": "Build real projects, not just tutorials",
-    "code_standards": "Clean, maintainable, documented",
-    "deployment": "If it's not in production, it's not done"
+# My Development Philosophy
+commitment = {
+    "frequency": "Daily commits when building",
+    "quality": "Production-ready code, not just tutorials",
+    "focus": "Solve real problems, not chase green squares",
+    "stack": ["Python", "FastAPI", "AI/ML", "Data Engineering"],
+    "approach": "Each commit should add real value"
 }
 ```
 
@@ -261,7 +260,7 @@ Learning curve? **I climb it daily.**
 
 **Evidence:**
 - 8 repos in 2 months
-- 126+ commits
+- 125+ commits
 - Zero bootcamp hand-holding
 
 </td>
@@ -317,7 +316,7 @@ status = {
     "work_authorization": "Brazilian citizen, open to international remote",
     "timezone": "GMT-3 (flexible for overlap with US/EU)",
     "languages": ["Portuguese (Native)", "English (Professional Working)"],
-    "currently": "Building in public • 8 repos • 126+ commits",
+    "currently": "Building in public • 8 repos • 125 commits/2 months",
     "learning": "Advanced FastAPI patterns, GCP architecture, System Design"
 }
 ```
