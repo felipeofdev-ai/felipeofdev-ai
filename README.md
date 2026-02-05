@@ -2,7 +2,7 @@
 
 **Building reliable systems where mistakes aren't an option**
 
-🇧🇷 São José dos Campos, Brazil | 🌍 Remote | 📧 felipe.of.dev@gmail.com |
+🇧🇷 São José dos Campos, Brazil | 🌍 Remote | 📧 felipe.of.dev@gmail.com | 📱 +55 12 98815-5221
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/felipe-de-oliveira-fernandes-941763110)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.of.dev@gmail.com)
