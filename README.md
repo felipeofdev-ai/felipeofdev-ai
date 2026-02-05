@@ -1,192 +1,332 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Felipe Fernandes | Python Backend Engineer</title>
-<style>
-    body {
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        margin: 0;
-        padding: 0;
-        background-color: #f5f7fa;
-        color: #1f2937;
-        line-height: 1.6;
-    }
-    header {
-        background-color: #1e3a8a;
-        color: white;
-        padding: 2rem;
-        text-align: center;
-    }
-    header h1 {
-        margin: 0;
-        font-size: 2.5rem;
-    }
-    header h3 {
-        margin: 0.3rem 0 1rem 0;
-        font-weight: 400;
-        color: #cbd5e1;
-    }
-    header a {
-        color: #93c5fd;
-        text-decoration: none;
-        margin: 0 0.5rem;
-    }
-    section {
-        max-width: 900px;
-        margin: 2rem auto;
-        padding: 0 1rem;
-    }
-    h2 {
-        color: #1e3a8a;
-        border-bottom: 2px solid #93c5fd;
-        padding-bottom: 0.3rem;
-        margin-bottom: 1rem;
-    }
-    ul {
-        padding-left: 1.2rem;
-    }
-    .projects {
-        display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-        gap: 1rem;
-    }
-    .project-card {
-        background-color: white;
-        border-radius: 12px;
-        padding: 1rem;
-        box-shadow: 0 4px 8px rgba(0,0,0,0.05);
-        transition: transform 0.2s, box-shadow 0.2s;
-    }
-    .project-card:hover {
-        transform: translateY(-5px);
-        box-shadow: 0 8px 20px rgba(0,0,0,0.1);
-    }
-    .project-card h3 {
-        margin-top: 0;
-        color: #1e40af;
-    }
-    .btn {
-        display: inline-block;
-        margin-top: 0.5rem;
-        padding: 0.5rem 1rem;
-        background-color: #1e3a8a;
-        color: white;
-        border-radius: 6px;
-        text-decoration: none;
-        transition: background-color 0.2s;
-    }
-    .btn:hover {
-        background-color: #3b82f6;
-    }
-    footer {
-        text-align: center;
-        padding: 2rem;
-        background-color: #1e3a8a;
-        color: white;
-    }
-</style>
-</head>
-<body>
+# 👋 Felipe Fernandes | Python Backend Engineer
 
-<header>
-    <h1>Felipe Fernandes</h1>
-    <h3>Python Backend Engineer • AI & Data Systems</h3>
-    <p>🇧🇷 Brazil | 🌍 Remote</p>
-    <p>
-        <a href="mailto:felipe.of.dev@gmail.com">Email</a> | 
-        <a href="https://linkedin.com/in/felipe-de-oliveira-fernandes-941763110" target="_blank">LinkedIn</a>
-    </p>
-</header>
+**Building reliable systems where mistakes aren't an option**
 
-<section>
-    <h2>About Me</h2>
-    <p>
-        I’m a <strong>Python backend engineer</strong> specialized in APIs, automation, data pipelines, and AI-powered systems. I build solutions that:
-    </p>
-    <ul>
-        <li>Solve real business problems</li>
-        <li>Run reliably in production</li>
-        <li>Integrate AI where it truly adds value</li>
-    </ul>
-    <p>My expertise combines <strong>backend engineering, data analytics, and generative AI</strong>, applied directly in practical projects with measurable impact.</p>
-</section>
+🇧🇷 São José dos Campos, Brazil | 🌍 Remote | 📧 felipe.of.dev@gmail.com | 📱 +55 12 98815-5221
 
-<section>
-    <h2>Core Skills</h2>
-    <ul>
-        <li>Python (clean code, OOP, automation)</li>
-        <li>Backend APIs (FastAPI, Flask, Django)</li>
-        <li>Databases & SQL (PostgreSQL, MySQL, SQLite)</li>
-        <li>Data Processing (Pandas, NumPy)</li>
-        <li>AI & LLMs (OpenAI, Whisper, prompt engineering)</li>
-        <li>Docker, Linux, Git/GitHub</li>
-        <li>Authentication & Security (JWT, REST APIs, CRUD)</li>
-    </ul>
-</section>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/felipe-de-oliveira-fernandes-941763110)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.of.dev@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View_Projects-181717?style=for-the-badge&logo=github)](https://github.com/felipeofdev-ai)
 
-<section>
-    <h2>Featured Projects</h2>
-    <div class="projects">
-        <div class="project-card">
-            <h3>Quantum Observer AI</h3>
-            <p>Generative AI decision engine modeling uncertainty and parallel futures.</p>
-            <a class="btn" href="https://github.com/felipeofdev-ai/quantum-observer-ai" target="_blank">View Project</a>
-        </div>
-        <div class="project-card">
-            <h3>BridgeTrace-AI</h3>
-            <p>Tracing financial flows across PIX and blockchain using graph theory + AI.</p>
-            <a class="btn" href="https://github.com/felipeofdev-ai/BridgeTrace-AI" target="_blank">View Project</a>
-        </div>
-        <div class="project-card">
-            <h3>Python Fundamentals</h3>
-            <p>Practical Python examples and clean coding practices.</p>
-            <a class="btn" href="https://github.com/felipeofdev-ai/python-fundamentals" target="_blank">View Project</a>
-        </div>
-        <div class="project-card">
-            <h3>felipeofdev-ai</h3>
-            <p>General repository containing utilities and personal Python projects.</p>
-            <a class="btn" href="https://github.com/felipeofdev-ai/felipeofdev-ai" target="_blank">View Project</a>
-        </div>
-        <div class="project-card">
-            <h3>Data Analytics Playground</h3>
-            <p>ETL pipelines, data cleaning, and SQL automation workflows.</p>
-            <a class="btn" href="https://github.com/felipeofdev-ai/data-analytics-playground" target="_blank">View Project</a>
-        </div>
-        <div class="project-card">
-            <h3>AI Backend API</h3>
-            <p>FastAPI backend exposing AI-powered endpoints with JWT authentication.</p>
-            <a class="btn" href="https://github.com/felipeofdev-ai/ai-backend-api" target="_blank">View Project</a>
-        </div>
-        <div class="project-card">
-            <h3>AI Automation Projects</h3>
-            <p>Real-world automation solutions using Python + AI for business workflows.</p>
-            <a class="btn" href="https://github.com/felipeofdev-ai/ai-automation-projects" target="_blank">View Project</a>
-        </div>
-        <div class="project-card">
-            <h3>Generative AI Playground</h3>
-            <p>Hands-on experiments with LLMs and Python exploring AI applications.</p>
-            <a class="btn" href="https://github.com/felipeofdev-ai/generative-ai-playground" target="_blank">View Project</a>
-        </div>
-    </div>
-</section>
+---
 
-<section>
-    <h2>Looking For</h2>
-    <ul>
-        <li>Backend / Python roles</li>
-        <li>AI or automation-focused teams</li>
-        <li>Real products with real users</li>
-        <li>Remote-friendly environments</li>
-    </ul>
-    <p>I prioritize <strong>impact, ownership, and real-world results</strong> over titles.</p>
-</section>
+## 🎯 What I Do
 
-<footer>
-    <p>Reach out: <a href="mailto:felipe.of.dev@gmail.com" style="color:#93c5fd;">felipe.of.dev@gmail.com</a> | <a href="https://linkedin.com/in/felipe-de-oliveira-fernandes-941763110" target="_blank" style="color:#93c5fd;">LinkedIn</a></p>
-    <p>&copy; 2026 Felipe Fernandes</p>
-</footer>
+Backend Python Developer specialized in **APIs, AI integrations, and production-grade automation**.
 
-</body>
-</html>
+**My edge?** 6 years in **ICU/Emergency environments** where downtime means lives lost.
+
+I bring that same **zero-error mindset** to software:
+
+```python
+# Code that works isn't enough. It needs to:
+- Handle edge cases gracefully
+- Fail loudly when it should
+- Stay maintainable at 2 AM
+- Respect data privacy by default (LGPD/GDPR)
+```
+
+**I don't write code for demos. I write code for Monday mornings.**
+
+---
+
+## 💼 Tech Stack
+
+```python
+backend = ["Python", "FastAPI", "Flask", "REST APIs", "JWT", "CRUD"]
+ai_data = ["OpenAI", "LLMs", "Whisper", "Prompt Engineering", "NLP", "Pandas", "SQL"]
+cloud_ops = ["GCP (Cloud Run, Firestore, Pub/Sub)", "Docker", "Git", "CI/CD"]
+business = ["Power BI", "Excel Advanced", "Data Analysis", "Process Automation"]
+```
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=felipeofdev-ai&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=felipeofdev-ai&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=felipeofdev-ai&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 [**Quantum Observer AI**](https://github.com/felipeofdev-ai/quantum-observer-ai) 
+**Probabilistic decision engine that doesn't hide uncertainty**
+
+Most AI systems rush to one answer. Real decisions don't work that way.
+
+- ✅ Models multiple futures in parallel
+- ✅ Integrates human context into probability weighting
+- ✅ Ethical constraints before final decision
+- ✅ Transparent, explainable outcomes
+
+**Tech:** Python • FastAPI • Probabilistic Modeling • Clean Architecture • Docker
+
+**Use cases:** Career decisions, product trade-offs, risk-sensitive planning
+
+---
+
+### 🔹 [**BridgeTrace-AI**](https://github.com/felipeofdev-ai/BridgeTrace-AI)
+**Financial flow tracer using graph theory + generative AI**
+
+Maps PIX/blockchain transactions to detect patterns and trace fund movement.
+
+- ✅ Graph-based relationship modeling
+- ✅ AI-powered pattern detection
+- ✅ Risk analysis and compliance support
+
+**Tech:** Python • Graph Algorithms • AI/ML • Data Analysis
+
+**Real-world impact:** Traceability for fintech compliance and fraud detection
+
+---
+
+### 🔹 [**AI Backend API**](https://github.com/felipeofdev-ai/ai-backend-api)
+**Production-ready FastAPI backend with AI endpoints**
+
+Enterprise-grade API architecture with security and scalability built-in.
+
+- ✅ JWT authentication
+- ✅ AI-powered endpoints (LLM integration)
+- ✅ Docker deployment ready
+- ✅ Clean, testable code structure
+
+**Tech:** FastAPI • JWT • OpenAI API • Docker • REST
+
+---
+
+### 🔹 [**Data Analytics Playground**](https://github.com/felipeofdev-ai/data-analytics-playground)
+**ETL pipelines and SQL automation workflows**
+
+Data engineering solutions for operational analytics.
+
+- ✅ Automated data cleaning
+- ✅ SQL query optimization
+- ✅ Business intelligence integration
+
+**Tech:** Python • Pandas • SQL • Power BI • ETL
+
+---
+
+📂 [**View All 8 Projects →**](https://github.com/felipeofdev-ai?tab=repositories)
+
+---
+
+## 🎓 Education & Certifications
+
+### 🎯 Formal Education
+**Associate Degree in Systems Analysis & Development**  
+📍 UniFatecie | 2024 - 2026 (In Progress)
+
+---
+
+### 🏆 Professional Certifications
+
+<table>
+<tr>
+<td width="50%">
+
+#### **Bradesco – GenAI & Data Bootcamp**
+**DIO (Digital Innovation One)**  
+*Completed 2024*
+
+**Skills acquired:**
+- Python for Data & AI
+- LLMs & Prompt Engineering
+- NLP & Voice AI (Whisper)
+- Applied GenAI Projects
+- SQL & Data Analysis
+
+**Final Project:**  
+Financial AI Assistant with voice interaction
+
+</td>
+<td width="50%">
+
+#### **Programming & Cloud Fundamentals**
+**Workover Academy & Others**
+
+✅ Logic & Algorithms  
+✅ Python Programming  
+✅ Excel Advanced  
+✅ SQL Fundamentals  
+✅ GCP Hands-on (Cloud Run, Firestore, Pub/Sub)  
+✅ Git & Version Control
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📜 Additional Credentials
+
+| Certification | Institution | Year |
+|--------------|-------------|------|
+| Programming Logic | Workover Academy | 2022 |
+| Excel Advanced | Workover Academy | 2021 |
+| Python Fundamentals | Self-taught + Projects | 2023-2024 |
+| FastAPI Production Patterns | Hands-on Experience | 2024 |
+
+---
+
+## 💡 Why Hire Me?
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔹 **I Understand Production Stakes**
+
+6 years in environments where:
+- Errors have real consequences
+- Systems must run 24/7
+- Data privacy is non-negotiable
+- Protocols exist for a reason
+
+**Result:** I write defensive code with proper error handling, logging, and monitoring.
+
+</td>
+<td width="50%">
+
+### 🔹 **I Solve Real Problems**
+
+I don't build for portfolios.
+
+My projects address actual business needs:
+- Decision support systems
+- Financial traceability
+- Process automation
+- AI that adds measurable value
+
+**Result:** Code that ships and stays running.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🔹 **I Communicate Clearly**
+
+Technical skills matter. So does:
+- Explaining complexity to non-tech stakeholders
+- Writing documentation that others can follow
+- Coordinating across teams
+
+**Background:** Interfaced with doctors, families, and ops teams daily.
+
+</td>
+<td width="50%">
+
+### 🔹 **I'm Self-Driven**
+
+Career transition? **Self-taught.**  
+Portfolio? **Built from scratch.**  
+Learning curve? **I climb it daily.**
+
+**Evidence:**
+- 8 repos in 2 months
+- 125+ commits
+- Zero bootcamp hand-holding
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎯 Career Transition: From Healthcare to Tech
+
+**2017-2023: ICU/Emergency Nursing Technician**  
+*SPDM Municipal Hospital*
+
+**What I learned that translates to software:**
+
+| Healthcare Skill | Tech Equivalent |
+|------------------|-----------------|
+| Zero-error protocols | Unit testing, code reviews, defensive programming |
+| SLA-driven operations | Uptime monitoring, CI/CD, incident response |
+| Data privacy (LGPD/PII) | Security best practices, encryption, compliance |
+| High-pressure decision-making | Debugging under deadlines, root cause analysis |
+| Cross-team coordination | Agile ceremonies, clear documentation, stakeholder management |
+
+**Why I transitioned:**  
+I was already solving problems — protocols, workflows, data integrity.  
+Now I do it with Python instead of spreadsheets.
+
+---
+
+## 📫 What I'm Looking For
+
+### ✅ **YES**
+- Backend / Python roles (junior to mid-level)
+- AI/automation-focused teams building real products
+- Remote-first companies valuing ownership over titles
+- Regulated industries (fintech, healthtech, compliance) where my background adds value
+- Teams that ship code, not just talk about it
+
+### ❌ **NO**
+- Agencies doing client work without product ownership
+- "Ninja rockstar guru" job descriptions
+- Unpaid internships or "exposure" offers
+- Companies without clear engineering practices
+
+---
+
+## 📈 Current Status
+
+```python
+status = {
+    "availability": "Immediately available for remote roles",
+    "location": "São José dos Campos, Brazil (Remote-first)",
+    "work_authorization": "Brazilian citizen, open to international remote",
+    "timezone": "GMT-3 (flexible for overlap with US/EU)",
+    "languages": ["Portuguese (Native)", "English (Professional Working)"],
+    "currently": "Building in public • 8 repos • 125 commits/2 months",
+    "learning": "Advanced FastAPI patterns, GCP architecture, System Design"
+}
+```
+
+---
+
+## 🤝 Let's Connect
+
+I'm looking for teams that value **reliability, clarity, and real impact** over resume checkboxes.
+
+If you're building something that matters and need a backend engineer who:
+- Writes production-grade code
+- Understands business context
+- Ships features that stay shipped
+- Brings a unique perspective from high-stakes environments
+
+**Then let's talk.**
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-View_Repos-181717?style=for-the-badge&logo=github)](https://github.com/felipeofdev-ai)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/felipe-de-oliveira-fernandes-941763110)
+[![Email](https://img.shields.io/badge/Email-felipe.of.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.of.dev@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Message_Me-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5512988155221)
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ **If my work resonates with you, star a repo. If my profile fits your team, reach out.**
+
+**Available for remote opportunities • Immediate start • Built to ship**
+
+</div>
+
+---
+
+<sub>💡 **Pro tip for recruiters:** Check my commit history, not just green squares. Quality > quantity.</sub>
