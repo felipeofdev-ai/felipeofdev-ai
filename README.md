@@ -107,14 +107,6 @@ Pinned repositories represent my **strongest and most relevant work**.
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=felipeofdev-ai&show_icons=true&theme=transparent&hide_title=true&hide_border=true"
-    alt="GitHub Stats"
-  />
-</p>
 
 ---
 
