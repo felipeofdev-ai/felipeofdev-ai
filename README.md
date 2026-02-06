@@ -1,154 +1,51 @@
-<!-- ========================= -->
-<!--  GITHUB PROFILE README   -->
-<!--  Felipe Fernandes        -->
-<!-- ========================= -->
+# Felipe Fernandes
+**AI Engineer | FinTech | Graph Intelligence | Blockchain**
 
-<h1 align="center">Hi, I’m Felipe Fernandes 👋</h1>
-
-<h3 align="center">
-AI Engineer • FinTech • Graph Intelligence • Blockchain
-</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Open%20to%20Work-Yes-success" />
-  <img src="https://img.shields.io/badge/Location-Remote%20%7C%20Global-lightgrey" />
-  <img src="https://img.shields.io/badge/Experience-Production--Focused-blueviolet" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-Expert-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Engineering-blue" />
-  <img src="https://img.shields.io/badge/FinTech-Systems-green" />
-  <img src="https://img.shields.io/badge/Blockchain-Analytics-black" />
-</p>
+[![GitHub Pages](https://img.shields.io/badge/Live%20Portfolio-GitHub%20Pages-238636?style=flat&logo=github)](https://felipeofdev-ai.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe%20Fernandes-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/felipe-de-oliveira-fernandes-941763110/)
+[![Email](https://img.shields.io/badge/Email-felipe.of.dev%40gmail.com-EA4335?style=flat&logo=gmail)](mailto:felipe.of.dev@gmail.com)
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
+AI Engineer focused on building **production-oriented systems** at the intersection of **Artificial Intelligence, Financial Systems and Blockchain**.
 
-I’m an **AI Engineer focused on building real-world, production-grade systems** at the intersection of  
-**Artificial Intelligence, Financial Systems, Graph Theory, and Blockchain**.
-
-My work emphasizes **business impact**, **clean architecture**, and **explainable AI**, especially for:
-- Financial traceability  
-- Risk analysis & compliance  
-- Transaction intelligence  
-- Data-driven decision systems  
-
-I don’t build tutorials — I build **systems that could run in production**.
+I design solutions that combine **graph intelligence, risk analysis and data-driven decisioning**, with an emphasis on **clarity, scalability and real-world impact**.
 
 ---
 
-## 🧠 Areas of Expertise
+## 🚀 Featured Project
+### BridgeTrace-AI
+**AI-powered financial traceability platform**
 
-- Artificial Intelligence & Machine Learning  
-- Graph Algorithms & Network Analysis  
-- Financial Systems (Banking, PIX, Compliance)  
-- Blockchain & Crypto Transaction Intelligence  
-- Backend APIs & Data Architecture  
+- Simulates tracing of financial flows between **banking systems (PIX)** and **blockchain networks**
+- Uses **graph-based reasoning** to identify anomalous patterns and risk signals
+- Includes an **interactive live demo**
 
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Core Engineering
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST-API-lightgrey" />
-  <img src="https://img.shields.io/badge/SQL-Data-blue" />
-</p>
-
-### 🤖 AI & Data
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-Models-blue" />
-  <img src="https://img.shields.io/badge/Graph-Theory-orange" />
-  <img src="https://img.shields.io/badge/AI-Explainability-purple" />
-  <img src="https://img.shields.io/badge/Data-Modeling-informational" />
-</p>
-
-### 💼 Domains
-<p>
-  <img src="https://img.shields.io/badge/FinTech-Production-green" />
-  <img src="https://img.shields.io/badge/Compliance-Tech-darkgreen" />
-  <img src="https://img.shields.io/badge/Risk-Analysis-red" />
-  <img src="https://img.shields.io/badge/Blockchain-Intelligence-black" />
-</p>
+🔗 **Live Demo:** https://felipeofdev-ai.github.io/projects/bridge-trace-ai/  
+🔗 **Repository:** https://github.com/felipeofdev-ai/BridgeTrace-AI
 
 ---
 
-## 🚀 Flagship Project
-
-### 🔍 BridgeTrace-AI  
-<b>AI-Driven Financial Traceability & Risk Engine</b>
-
-BridgeTrace-AI is an open-source system designed to **trace and analyze financial flows across traditional banking systems (including PIX) and blockchain networks**, using **graph intelligence, probabilistic correlation, and generative AI explanations**.
-
-✔ Graph-based transaction modeling  
-✔ Risk detection & anomaly analysis  
-✔ Correlation between bank accounts and crypto wallets  
-✔ AI-generated investigative explanations  
-✔ REST API and interactive dashboard  
-
-👉 <b>Repository:</b>  
-https://github.com/felipeofdev-ai/BridgeTrace-AI
+## 🧠 Technical Focus
+- Artificial Intelligence & Risk Modeling  
+- Graph Intelligence & Network Analysis  
+- FinTech Systems & Financial Flows  
+- Blockchain & On-chain Analysis  
+- Clean Architecture & Developer Experience  
 
 ---
 
-## 📂 Other Repositories
+## 🌍 Portfolio
+👉 **https://felipeofdev-ai.github.io**
 
-My GitHub repositories focus on **applied AI, backend engineering, and financial data intelligence**, prioritizing:
-- Clean architecture  
-- Reproducible environments  
-- Real-world use cases  
-
-Pinned repositories represent my **strongest and most relevant work**.
-
----
-
+Each project includes:
+- Clear problem statement
+- Technical approach
+- Interactive demo when applicable
 
 ---
 
-## 🎯 What I’m Looking For
-
-<p>
-  <img src="https://img.shields.io/badge/Hiring-Welcome-success" />
-</p>
-
-I’m currently open to:
-- Full-time roles  
-- Contract / freelance opportunities  
-- Technical interviews  
-- International and remote positions  
-
-If your company works with **AI, FinTech, Data, Blockchain, or Compliance Systems**, I’d be happy to talk.
-
----
-
-## 📫 Let’s Connect
-
-<p>
-  <a href="https://www.linkedin.com/in/felipe-de-oliveira-fernandes-941763110/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" />
-  </a>
-  <a href="mailto:felipe.of.dev@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-important" />
-  </a>
-</p>
-
-- 📧 **Email:** felipe.of.dev@gmail.com  
-- 💼 **LinkedIn:** https://www.linkedin.com/in/felipe-de-oliveira-fernandes-941763110/  
-- 🧑‍💻 **GitHub:** https://github.com/felipeofdev-ai  
-
----
-
-## 🧠 Note for Recruiters
-
-This profile showcases **production-oriented engineering projects** focused on **real-world financial and AI problems**, not academic demos.
-
-If you’re looking for someone who can **design, build, and explain complex systems**, feel free to reach out.
-
----
-
-⭐ <i>This GitHub profile is intentionally designed for fast technical evaluation (10–30 seconds).</i>
+## 📫 Contact
+- **Email:** felipe.of.dev@gmail.com  
+- **LinkedIn:** https://www.linkedin.com/in/felipe-de-oliveira-fernandes-941763110/
