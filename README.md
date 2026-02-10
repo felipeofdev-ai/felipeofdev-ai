@@ -1,5 +1,5 @@
 # Felipe Fernandes
-**AI Engineer | FinTech | Graph Intelligence | Blockchain**
+**Data Engineer | AI Engineer (Applied) | FinTech | Graph Intelligence**
 
 [![GitHub Pages](https://img.shields.io/badge/Live%20Portfolio-GitHub%20Pages-238636?style=flat&logo=github)](https://felipeofdev-ai.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Felipe%20Fernandes-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/felipe-de-oliveira-fernandes-941763110/)
@@ -8,19 +8,21 @@
 ---
 
 ## 👋 About Me
-AI Engineer focused on building **production-oriented systems** at the intersection of **Artificial Intelligence, Financial Systems and Blockchain**.
+Data Engineer with strong foundations in **Python, SQL, data pipelines and analytics engineering**, combined with hands-on experience in **applied Artificial Intelligence**.
 
-I design solutions that combine **graph intelligence, risk analysis and data-driven decisioning**, with an emphasis on **clarity, scalability and real-world impact**.
+I build **data-driven systems** that transform raw data into reliable datasets and actionable insights, with a special interest in **financial systems, risk analysis and graph-based intelligence**.  
+My focus is on **clarity, scalability, data quality and real-world impact**.
 
 ---
 
 ## 🚀 Featured Project
-### BridgeTrace-AI
-**AI-powered financial traceability platform**
+### BridgeTrace-AI (v1 → v2)
+**Data & AI-powered financial traceability platform**
 
-- Simulates tracing of financial flows between **banking systems (PIX)** and **blockchain networks**
-- Uses **graph-based reasoning** to identify anomalous patterns and risk signals
-- Includes an **interactive live demo**
+- Designs and simulates **financial data flows** between traditional banking systems (PIX) and blockchain networks
+- Applies **graph-based modeling** to analyze relationships, trace paths and identify anomalous patterns
+- Evolves from a proof of concept (v1) to a more **modular and scalable architecture (v2)**
+- Demonstrates integration of **data engineering concepts with applied AI**
 
 🔗 **Live Demo:** https://felipeofdev-ai.github.io/projects/bridge-trace-ai/  
 🔗 **Repository:** https://github.com/felipeofdev-ai/BridgeTrace-AI
@@ -28,11 +30,13 @@ I design solutions that combine **graph intelligence, risk analysis and data-dri
 ---
 
 ## 🧠 Technical Focus
-- Artificial Intelligence & Risk Modeling  
+- Data Engineering & ELT Pipelines  
+- SQL Analytics & Data Modeling  
+- Python for Data Processing & Automation  
+- Applied AI & LLM-based Analysis  
 - Graph Intelligence & Network Analysis  
-- FinTech Systems & Financial Flows  
-- Blockchain & On-chain Analysis  
-- Clean Architecture & Developer Experience  
+- FinTech Systems & Financial Data  
+- Clean Architecture & Scalable Design  
 
 ---
 
@@ -40,8 +44,9 @@ I design solutions that combine **graph intelligence, risk analysis and data-dri
 👉 **https://felipeofdev-ai.github.io**
 
 Each project includes:
-- Clear problem statement
-- Technical approach
+- Clear problem definition
+- Data and technical approach
+- Architecture decisions
 - Interactive demo when applicable
 
 ---
