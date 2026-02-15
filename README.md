@@ -2,154 +2,136 @@
 
 <div align="center">
 
-### 🚀 Founder & Technical Lead | Enterprise SaaS Architect | AI/Data Engineer
+**Data Engineer | AI Systems Builder | SaaS Architect**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-238636?style=for-the-badge&logo=github)](https://felipeofdev-ai.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=github)](https://felipeofdev-ai.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/felipe-de-oliveira-fernandes-941763110/)
-[![Email](https://img.shields.io/badge/Contact-EA4335?style=for-the-badge&logo=gmail)](mailto:felipe.of.dev@gmail.com)
-
-**Building enterprise-grade systems that Fortune 500 companies trust.**
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:felipe.of.dev@gmail.com)
 
 </div>
 
 ---
 
-## 🎯 Professional Identity
+## 👨‍💻 About Me
 
-**Data Engineer** with **5+ years** architecting scalable data platforms and AI systems for **financial technology, risk intelligence, and professional networks**. Proven track record of transforming complex business requirements into **production-ready solutions** that serve **thousands of users** with **99.97% accuracy**.
+I design and build **production-ready software architectures**, **data systems**, and **AI-driven platforms** focused on **scalability**, **reliability**, and **real-world applicability**.
 
-I combine **deep technical expertise** with **founder mindset** — building not just code, but **sustainable products** with **real-world impact**, **enterprise security**, and **observability-first architecture**.
+My approach: **engineering as system design** — not just coding, but architecting complete solutions with observability, security, and maintainability built in from the start.
 
-### 💼 Core Expertise
-- **Enterprise SaaS Architecture** — Multi-tenant, scalable, secure
-- **Data Engineering** — ETL/ELT pipelines, data modeling, analytics engineering
-- **Applied AI** — LLM integration, fraud detection, intelligent matching
-- **Financial Systems** — FinTech, risk analysis, blockchain integration
+### Core Expertise
+- **Data Engineering** — ETL/ELT pipelines, data modeling, analytics infrastructure
+- **Applied AI** — LLM integrations, fraud detection, intelligent matching systems
+- **SaaS Architecture** — Multi-tenant design, API-first, modular backends
 - **Graph Intelligence** — Network analysis, relationship mapping, anomaly detection
+- **Security & Reliability** — Authentication flows, encryption, defensive design
 
 ---
 
-## 🏆 Featured Products
+## 🚀 Projects
 
-### 1. TrustHire Quantum Protocol
-**Enterprise Professional Network Platform | SaaS | Production-Ready**
+### TrustHire — Professional Trust Infrastructure Platform
 
-> *Beyond LinkedIn. Real-time fraud detection meets quantum security.*
+**System designed to improve reliability and transparency in professional networking through structured data validation and automated analysis.**
 
-**What It Solves:**
-- 89K+ recruitment scams detected and blocked
-- 32K+ verified job opportunities
-- 847K+ professionals protected in real-time
+**Purpose:**  
+Provide infrastructure capable of supporting fraud detection, verification workflows, and trust scoring in professional ecosystems.
 
-**Technical Excellence:**
-- **Architecture:** 7-layer quantum security, multi-model AI ensemble
-- **Scale:** Real-time stats updating every 30s, zero downtime
-- **Security:** Blockchain verification, XSS protection, rate limiting
-- **Performance:** <1s load time, 99.97% detection accuracy
-- **Stack:** Pure JavaScript (production-optimized), LocalStorage encryption, REST API ready
+**Current Stage:**  
+Architecture and core platform implemented. Designed for real-world deployment and scale testing.
 
-**Features That Matter:**
-- ✅ Multi-language (PT/EN/ES) — 150+ localized strings
-- ✅ Fraud detection AI — 6-pattern mathematical analysis
-- ✅ ATS resume optimizer — 8 systems supported, auto-download
-- ✅ GitHub integration — Auto-star system with usage tracking
-- ✅ Freemium monetization — $9.99 Premium / $49.99 Enterprise
+**Technical Characteristics:**
+- Modular frontend architecture
+- AI-ready detection pipeline (6-pattern fraud analysis)
+- API-ready backend structure
+- Multi-language interface support (PT/EN/ES)
+- Security-oriented design patterns
+- GitHub integration system
+- Freemium monetization model ($9.99 Premium / $49.99 Enterprise)
 
-**Why It's Enterprise-Grade:**
-- Production-deployed infrastructure ready
-- Comprehensive documentation (ARCHITECTURE.md included)
-- Metrics-driven observability
-- Security-first design (OWASP compliant)
-- Scalable pricing tiers with clear ROI
+**Engineering Design:**
+- Single-file production-optimized frontend
+- LocalStorage encryption (base64)
+- Real-time stats update system (30s intervals)
+- Rate limiting architecture
+- Blockchain hash verification
+- ATS resume optimization engine (8 systems)
+
+**Stack:** JavaScript • REST APIs • Structured storage • Modular components
 
 🔗 **Repository:** [github.com/felipeofdev-ai/trusthire](https://github.com/felipeofdev-ai/trusthire)
 
-**Tech Stack:** JavaScript, REST API, Blockchain Hash, LocalStorage Encryption, Multi-Model AI
-
 ---
 
-### 2. BridgeTrace-AI (v2)
-**Financial Intelligence Platform | Graph-Based Risk Analysis**
+### BridgeTrace AI — Financial Graph Intelligence System
 
-> *Connecting traditional finance with blockchain through intelligent data traceability.*
+**Graph-based analysis platform designed to model transaction relationships and identify risk patterns across financial data sources.**
 
-**What It Solves:**
-- Financial transaction path analysis across PIX ↔ Blockchain
-- Anomaly detection in cross-border payment flows
-- Risk scoring with graph-based relationship mapping
+**Purpose:**  
+Demonstrate architecture for traceability, anomaly detection, and relationship analysis across transactional datasets.
 
-**Technical Excellence:**
-- **Architecture:** Modular microservices, graph database integration
-- **Scale:** Processes 10K+ transaction paths/second
-- **Security:** End-to-end encryption, audit logging, compliance-ready
-- **Performance:** Real-time graph traversal, sub-second analysis
-- **Stack:** Python, Neo4j/NetworkX, FastAPI, PostgreSQL
+**Capabilities:**
+- Multi-hop relationship tracing
+- Graph modeling (PIX ↔ Blockchain)
+- Anomaly pattern detection logic
+- Interactive visualization interface
+- RESTful API with OpenAPI documentation
 
-**Features That Matter:**
-- ✅ Graph-based relationship modeling
-- ✅ Multi-hop transaction tracing
-- ✅ Anomaly detection algorithms
-- ✅ Interactive visualization dashboard
-- ✅ RESTful API with OpenAPI docs
+**Engineering Design:**
+- Microservice-ready architecture
+- Graph analysis engine (NetworkX/Neo4j)
+- Audit-structured logging
+- Scalable data modeling
+- Real-time graph traversal
 
-**Why It's Enterprise-Grade:**
-- FinTech compliance standards (PCI-DSS ready)
-- Audit trails for regulatory requirements
-- Scalable graph architecture (millions of nodes)
-- Real-time alerting system
-- Comprehensive API documentation
+**Stack:** Python • FastAPI • PostgreSQL • Graph tools • NetworkX
 
 🔗 **Live Demo:** [felipeofdev-ai.github.io/projects/bridge-trace-ai](https://felipeofdev-ai.github.io/projects/bridge-trace-ai/)  
 🔗 **Repository:** [github.com/felipeofdev-ai/BridgeTrace-AI](https://github.com/felipeofdev-ai/BridgeTrace-AI)
 
-**Tech Stack:** Python, Graph Databases, FastAPI, AI/ML, Financial APIs
-
 ---
 
-## 🛠️ Technical Arsenal
+## 🛠️ Technical Stack
 
 <table>
 <tr>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
-### 🏗️ Data & Infrastructure
-- **Languages:** Python, SQL, JavaScript
-- **Data Engineering:** dbt, Airflow, Dagster
-- **Databases:** PostgreSQL, Redis, Neo4j
-- **Cloud:** AWS, Docker, Kubernetes
-- **Analytics:** Pandas, NumPy, Spark
+### Languages
+- Python
+- SQL
+- JavaScript
 
-</td>
-<td valign="top" width="50%">
-
-### 🤖 AI & Intelligence
-- **AI/ML:** LangChain, OpenAI, Anthropic Claude
-- **Graph Analytics:** NetworkX, Neo4j
-- **Risk Models:** Fraud detection, scoring algorithms
-- **NLP:** Text analysis, sentiment detection
-- **Computer Vision:** OCR, document processing
+### Infrastructure
+- Docker
+- AWS
+- PostgreSQL
+- Redis
 
 </td>
-</tr>
-<tr>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
-### 🚀 Product & Architecture
-- **Patterns:** Microservices, Event-Driven, CQRS
-- **API Design:** REST, GraphQL, WebSockets
-- **Security:** OAuth2, JWT, Blockchain, Encryption
-- **Observability:** Prometheus, Grafana, Sentry
-- **Testing:** PyTest, Jest, E2E automation
+### Data Engineering
+- Airflow
+- Pandas
+- dbt
+- Spark
+- ETL/ELT pipelines
+
+### Analytics
+- Data modeling
+- Graph analysis
+- NetworkX
 
 </td>
-<td valign="top" width="50%">
+<td valign="top" width="33%">
 
-### 💼 Business & Leadership
-- **SaaS Monetization:** Freemium, B2B, API pricing
-- **Product Strategy:** Market fit, roadmapping
-- **Technical Writing:** Architecture docs, API docs
-- **Stakeholder Management:** C-level communication
-- **Agile/Scrum:** Sprint planning, retrospectives
+### AI & Development
+- LLM APIs (OpenAI, Anthropic)
+- NLP processing
+- REST APIs
+- WebSockets
+- Automated testing
+- CI/CD
 
 </td>
 </tr>
@@ -157,118 +139,105 @@ I combine **deep technical expertise** with **founder mindset** — building not
 
 ---
 
-## 📊 Impact Metrics
+## 🎯 Engineering Principles
 
-```
-🎯 Products Shipped to Production    → 2 major platforms
-👥 Users Served                       → 847K+ (TrustHire)
-🛡️ Threats Detected & Blocked         → 89K+ fraud attempts
-💰 Revenue-Ready Monetization         → $9.99 - $49.99/user/month
-⚡ System Accuracy                     → 99.97%
-📈 Uptime Target                      → 99.9% SLA-ready
-🔒 Security Incidents                 → 0 (production systems)
-```
+1. **Deployable systems > theoretical code** — If it's not runnable, it's not done
+2. **Observability is part of architecture** — Logs, metrics, traces from day 1
+3. **Security must be intentional, not reactive** — Design for threats, don't patch later
+4. **Simplicity scales better than complexity** — Maintainable systems win long-term
+5. **Clear structure reduces future cost** — Technical debt is real debt
 
 ---
 
-## 🎓 Professional Philosophy
+## 💡 Engineering Strength
 
-### 🏗️ Engineering Principles
-1. **Production-First Mindset** — If it's not deployable, it's not done
-2. **Metrics Drive Decisions** — No opinions without data
-3. **Security is Non-Negotiable** — Encrypt everything, trust nothing
-4. **Documentation = Product** — APIs without docs don't exist
-5. **Observability from Day 1** — You can't fix what you can't see
+I focus on building **complete systems**, not isolated features.
 
-### 💡 Business Principles
-1. **User Pain = Product Opportunity** — Solve real problems
-2. **Revenue Validates Value** — Users should pay for value delivered
-3. **Scale Before Complexity** — Simple systems that scale beat complex systems
-4. **Compliance is a Feature** — GDPR/SOC2/PCI aren't obstacles
-5. **Technical Debt is Real Debt** — Pay it down or pay interest forever
+My projects are designed with:
+- ✅ **Modular architecture** — Clean separation of concerns
+- ✅ **Structured logging** — Debuggable, traceable
+- ✅ **Maintainable codebases** — Clear naming, documentation
+- ✅ **Extensibility** — Easy to add features without refactoring
+- ✅ **Production mindset** — Security, error handling, edge cases
 
 ---
 
-## 🏆 What Makes Me Different
+## 📚 What Makes My Work Different
 
-### ✅ Not Just a Developer — A **Product Engineer**
-I don't write code for code's sake. Every line ships value:
-- **Business metrics** improve (revenue, retention, engagement)
-- **User experience** is measurable (NPS, load time, error rates)
-- **System health** is observable (logs, traces, metrics)
+### ✅ Complete Systems, Not Just Demos
+Every project includes:
+- **Architecture documentation** — System design explained
+- **Error handling** — Graceful degradation
+- **Security considerations** — Input validation, encryption
+- **API design** — RESTful, documented
+- **Deployment readiness** — Containerized, environment configs
 
-### ✅ Not Just Features — **Complete Systems**
-My projects include:
-- 📊 **Monitoring** — Real-time metrics, alerting, dashboards
-- 🔐 **Security** — Penetration tested, OWASP compliant
-- 📚 **Documentation** — Architecture diagrams, API specs, runbooks
-- 🧪 **Testing** — Unit, integration, E2E, load tests
-- 🚀 **Deployment** — CI/CD pipelines, containerized, zero-downtime
+### ✅ Real-World Thinking
+- **Scalability** — Designed for growth, not just current use
+- **Observability** — Logs and metrics integrated
+- **Testing strategy** — Unit, integration, E2E concepts
+- **Documentation** — README, architecture diagrams, code comments
+- **Maintenance** — Code that others can understand
 
-### ✅ Not Just Local — **Production-Ready**
-Everything I build is designed for:
-- **Scale** — Thousands to millions of users
-- **Reliability** — 99.9% uptime SLAs
-- **Security** — Bank-grade encryption
-- **Compliance** — GDPR, SOC2, PCI-DSS ready
-- **Observability** — Full telemetry stack
-
----
-
-## 💼 Looking For
-
-I'm interested in **high-impact roles** where I can:
-
-### 🎯 As an **Individual Contributor**
-- **Staff/Principal Engineer** — Architecting systems that handle millions of users
-- **Data Platform Lead** — Building the data infrastructure for AI-first companies
-- **Applied AI Engineer** — Shipping ML/AI features that drive business metrics
-
-### 🚀 As a **Founder/Co-Founder**
-- **Technical Co-Founder** — Building 0→1 with product-market fit focus
-- **CTO** — Scaling engineering teams and infrastructure
-- **Technical Advisor** — Guiding architecture and technical strategy
-
-### 🏢 Ideal Company Profile
-- **Fortune 500** or **high-growth startups** (Series B+)
-- **FinTech, AI, or Data Infrastructure** domains
-- **Engineering-driven culture** (Stripe, Snowflake, Databricks model)
-- **Remote-first or hybrid** with global reach
-- **Mission-critical systems** where quality matters
+### ✅ Business Context
+I understand that code serves business goals:
+- **Monetization models** — Freemium, tiered pricing
+- **User experience** — Fast load times, intuitive interfaces
+- **Compliance awareness** — GDPR, data protection principles
+- **Cost optimization** — Efficient queries, caching strategies
 
 ---
 
-## 🌍 Full Portfolio
+## 🎯 Current Focus (2024-2025)
+
+### Learning
+- Rust for high-performance data systems
+- Distributed messaging architectures (Kafka, RabbitMQ)
+- Advanced graph algorithms (PageRank, community detection)
+
+### Building
+- TrustHire backend evolution (FastAPI + PostgreSQL)
+- BridgeTrace AI v3 (real-time graph processing)
+- Technical writing on system design patterns
+
+### Certifications
+- AWS Solutions Architect (in progress)
+- Neo4j Certified Professional (planned Q1 2025)
+
+---
+
+## 💼 Professional Interests
+
+I'm interested in roles involving:
+- **Data Platforms** — Building infrastructure for analytics/ML
+- **System Architecture** — Designing scalable, maintainable systems
+- **Applied AI** — Shipping ML/AI features that solve real problems
+- **Backend Engineering** — APIs, databases, distributed systems
+- **Infrastructure Engineering** — DevOps, observability, reliability
+
+### Ideal Environment
+- **Technically challenging** — Complex problems worth solving
+- **Remote-friendly** — Open to global teams
+- **Growth-oriented** — Learning opportunities, mentorship
+- **Product-focused** — Engineering that impacts users
+- **Quality-first culture** — Code reviews, testing, documentation
+
+---
+
+## 🌍 Portfolio
 
 ### 👉 [felipeofdev-ai.github.io](https://felipeofdev-ai.github.io)
 
 **What You'll Find:**
-- **Live Demos** — Interact with working products
-- **Architecture Deep-Dives** — System design breakdowns
-- **Technical Writing** — Problem-solving approach explained
-- **Code Quality** — Production-grade examples
-- **Business Context** — Why it matters, not just how it works
+- **Working demos** — Interactive projects you can test
+- **Architecture explanations** — How systems are designed
+- **Code quality** — Production-grade examples
+- **Problem-solving approach** — Why decisions were made
+- **Technical depth** — Not just surface-level implementations
 
 ---
 
-## 📫 Let's Connect
-
-<div align="center">
-
-### I respond within 24 hours to serious opportunities.
-
-[![Email](https://img.shields.io/badge/📧_felipe.of.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.of.dev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn_Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-de-oliveira-fernandes-941763110/)
-[![Portfolio](https://img.shields.io/badge/🌐_Live_Portfolio-238636?style=for-the-badge&logo=github&logoColor=white)](https://felipeofdev-ai.github.io)
-
-**📍 Location:** Brazil (UTC-3) | **💼 Status:** Open to relocation/remote  
-**🎯 Availability:** Immediate for the right opportunity
-
-</div>
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -280,37 +249,26 @@ I'm interested in **high-impact roles** where I can:
 
 ---
 
-## 🎯 Current Focus (2024-2025)
+## 📫 Contact
 
-```yaml
-Learning:
-  - Rust for high-performance data pipelines
-  - Distributed systems (Kafka, RabbitMQ)
-  - Advanced graph algorithms (PageRank, community detection)
+<div align="center">
 
-Building:
-  - TrustHire backend (FastAPI + PostgreSQL)
-  - BridgeTrace-AI v3 (real-time graph processing)
-  - Personal blog on enterprise architecture
+**📍 Location:** Brazil (UTC-3) • Remote Ready • Open to Relocation
 
-Certifications:
-  - AWS Solutions Architect (in progress)
-  - Neo4j Certified Professional (planned Q1 2025)
-```
+[![Email](https://img.shields.io/badge/felipe.of.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.of.dev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-de-oliveira-fernandes-941763110/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=github&logoColor=white)](https://felipeofdev-ai.github.io)
+
+**I respond within 24 hours to professional inquiries.**
+
+</div>
 
 ---
 
 <div align="center">
 
-### 🚀 Ready to build something exceptional?
+*Built with focus on clarity, honesty, and technical depth.*
 
-**Let's talk about how I can help your team ship faster, scale smarter, and build products users love.**
-
-[![Schedule a Call](https://img.shields.io/badge/📅_Schedule_Call-00ff9d?style=for-the-badge)](mailto:felipe.of.dev@gmail.com?subject=Let's%20Connect)
-
----
-
-**Built with 💚 by Felipe Fernandes**  
-*Last updated: February 2025*
+**Last updated:** February 2025
 
 </div>
