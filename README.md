@@ -4,7 +4,7 @@
 
 **Data Engineer | AI Systems Builder | SaaS Architect**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=github)](https://felipeofdev-ai.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=github)](https://github.com/felipeofdev-ai?tab=repositories)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/felipe-de-oliveira-fernandes-941763110/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail)](mailto:felipe.of.dev@gmail.com)
 
