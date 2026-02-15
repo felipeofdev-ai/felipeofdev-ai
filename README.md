@@ -257,7 +257,7 @@ I'm interested in roles involving:
 
 [![Email](https://img.shields.io/badge/felipe.of.dev@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:felipe.of.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-de-oliveira-fernandes-941763110/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=github&logoColor=white)](https://felipeofdev-ai.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-238636?style=for-the-badge&logo=github&logoColor=white)](https://github.com/felipeofdev-ai?tab=repositories)
 
 **I respond within 24 hours to professional inquiries.**
 
@@ -269,6 +269,6 @@ I'm interested in roles involving:
 
 *Built with focus on clarity, honesty, and technical depth.*
 
-**Last updated:** February 2025
+**Last updated:** February 2026
 
 </div>
