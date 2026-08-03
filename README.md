@@ -1,88 +1,102 @@
-# Felipe Fernandes
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=18&pause=1200&color=5CFFB0&center=true&vCenter=true&width=700&lines=FELIPE+QUEST;Full-Stack+%2B+Agentic+AI;Products+that+protect+people" alt="typing" />
+</p>
 
-<div align="center">
+<h1 align="center">Felipe Fernandes — Systems & AI Engineer</h1>
 
-```
-Systems Engineer · Python · Open Source Contributor · AI & Backend
-```
+<p align="center">
+  <b>I ship production systems that reduce risk, increase trust, and help real businesses operate with AI — responsibly.</b><br/>
+  Brazil · Remote · TypeScript · Python · Next.js · FastAPI · Graphs · LLMs · AWS
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-de-oliveira-fernandes-941763110/)
-[![Email](https://img.shields.io/badge/felipe.of.dev@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:felipe.of.dev@gmail.com)
-[![Location](https://img.shields.io/badge/São_José_dos_Campos,_Brazil-Remote-lightgrey?style=flat-square)](https://github.com/felipeofdev-ai)
-
-</div>
-
----
-
-## Open Source
-
-### Home Assistant Core — PR #163908 (em review)
-
-Correcao de bug critico que afetou todos os usuarios de OpenAI e Anthropic apos a atualizacao 2026.1.0.
-
-**Problema:** Os intents `HassStartTimer` e `HassDecreaseTimer` geravam schemas JSON com `anyOf` no nivel raiz — rejeitado pelas APIs da OpenAI e Anthropic com HTTP 400.
-
-**Solucao:** Implementei `sanitize_tool_schema()` em `homeassistant/helpers/llm_schema.py`, um helper compartilhado que sanitiza o schema antes de enviar para qualquer provider LLM. Aplicado em ambas as integracoes (`openai_conversation` e `anthropic`).
-
-```python
-# homeassistant/helpers/llm_schema.py
-def sanitize_tool_schema(schema: dict[str, Any]) -> dict[str, Any]:
-    """Remove root-level anyOf/oneOf/allOf/not/enum before sending to LLM APIs."""
-    if not UNSUPPORTED_ROOT_SCHEMA_KEYS.intersection(schema):
-        return schema
-    sanitized = {k: v for k, v in schema.items() if k not in UNSUPPORTED_ROOT_SCHEMA_KEYS}
-    sanitized["required"] = []
-    return sanitized
-```
-
-**Repositorio:** 84k stars · 2M+ usuarios · Maior projeto open source de automacao residencial do mundo
-
-🔗 [PR #163908](https://github.com/home-assistant/core/pull/163908) · Fecha issues [#160462](https://github.com/home-assistant/core/issues/160462) [#160540](https://github.com/home-assistant/core/issues/160540) [#160565](https://github.com/home-assistant/core/issues/160565)
+<p align="center">
+  <a href="mailto:felipe.of.dev@gmail.com"><img src="https://img.shields.io/badge/Email-felipe.of.dev%40gmail.com-5cffb0?style=flat-square" alt="email" /></a>
+  <a href="https://www.linkedin.com/in/felipe-de-oliveira-fernandes-941763110/"><img src="https://img.shields.io/badge/LinkedIn-Hire_me-0A66C2?style=flat-square&logo=linkedin" alt="linkedin" /></a>
+  <a href="https://felipeofdev-ai.github.io/"><img src="https://img.shields.io/badge/Site-BridgeTrace_lab-ff6bcb?style=flat-square" alt="site" /></a>
+</p>
 
 ---
 
-### TheAlgorithms/Python — PR #14281 (em review)
+## Why recruiters pin this profile
 
-Restauracao de algoritmos quebrados/desabilitados nas categorias Machine Learning, Neural Network e Quantum Computing.
+Most portfolios show tutorials. This one shows **products with a human stake**:
 
-🔗 [PR #14281](https://github.com/TheAlgorithms/Python/pull/14281)
+| Product | Who it helps | Proof |
+|--------|---------------|------|
+| **[TrustHire](https://github.com/felipeofdev-ai/trusthire)** | Job seekers avoiding fraud | AI risk signals on offers/messages · [backend](https://github.com/felipeofdev-ai/trusthire-backend) · [frontend](https://github.com/felipeofdev-ai/trusthire-frontend) |
+| **[BalcãoIA Local](https://github.com/felipeofdev-ai/balcaoia-local)** | Local businesses (beauty, retail, services) | Next.js studio · Método 7D · compliance-first WhatsApp (official API only) · Vitest |
+| **[BridgeTrace-AI](https://github.com/felipeofdev-ai/BridgeTrace-AI)** | Compliance / risk researchers | PIX ↔ blockchain graph intelligence · synthetic data · explainability |
+| **[Meridian](https://github.com/felipeofdev-ai/Meridian)** | Engineering governance teams | Append-only “fixed point of truth” · TypeScript |
+| **[CardOpsAI](https://github.com/felipeofdev-ai/CardOpsAI)** | Payment / ops risk teams | Fraud + systemic risk orchestration sketches for card ecosystems |
 
----
-
-## Projetos
-
-### BridgeTrace AI
-Plataforma de rastreabilidade financeira usando teoria de grafos e IA generativa. Modela fluxos entre sistemas bancarios (PIX) e redes blockchain com deteccao de anomalias.
-
-**Stack:** Python · FastAPI · NetworkX · PostgreSQL
-
-🔗 [Repositorio](https://github.com/felipeofdev-ai/BridgeTrace-AI) · [Demo](https://felipeofdev-ai.github.io)
+> Narrative in one line: **I build AI systems that make money safer, hiring safer, and local commerce smarter — without dark patterns.**
 
 ---
 
-### TrustHire
-Analisador de ofertas de emprego e mensagens de recrutamento com deteccao de sinais de risco usando IA.
+## Stack I actually ship
 
-**Stack:** Python · FastAPI · Stripe
-
-🔗 [Backend](https://github.com/felipeofdev-ai/trusthire-backend) · [Frontend](https://github.com/felipeofdev-ai/trusthire-frontend)
-
----
-
-## Stack
-
-```
-Languages   Python (principal) · SQL · JavaScript
-Backend     FastAPI · REST APIs · PostgreSQL · Redis · Docker
-AI / ML     OpenAI API · Anthropic API · LLM integrations · algoritmos do zero
-Data        Pandas · NetworkX · ETL pipelines · graph analysis
-Quality     mypy · ruff · pytest · type hints · CI/CD
+```text
+Languages   TypeScript · JavaScript · Python · SQL · PLpgSQL
+Frontend    React · Next.js · Tailwind
+Backend     Node.js · FastAPI · REST · tRPC-style contracts
+Data        PostgreSQL · Neo4j · Redis · graph modeling
+AI          LangChain-class orchestration · multi-LLM · guardrails · mocks for demos
+Cloud/DX    Docker · CI · Vercel · AWS hands-on (Lambda/S3/API GW patterns)
 ```
 
 ---
 
-## Contato
+## Featured quest map
 
-**Remote · UTC-3 · Aberto a oportunidades globais**
+```text
+                    ┌─────────────────┐
+                    │  HUMAN IMPACT   │
+                    └────────┬────────┘
+           ┌─────────────────┼─────────────────┐
+           ▼                 ▼                 ▼
+    TrustHire           BalcãoIA          BridgeTrace
+  (job fraud)      (local business AI)   (financial graphs)
+           │                 │                 │
+           └────────┬────────┴────────┬────────┘
+                    ▼                 ▼
+               Meridian           CardOpsAI
+            (audit truth)      (payments risk)
+```
 
-[felipe.of.dev@gmail.com](mailto:felipe.of.dev@gmail.com) · [LinkedIn](https://www.linkedin.com/in/felipe-de-oliveira-fernandes-941763110/)
+### Open source signal
+Top contributor energy on **[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)** — 17 PRs merged into a 218k★ repository (algorithms + tests + CI discipline).
+
+---
+
+## Currently building in production (day job)
+
+- **WR IT Solutions** — Full-Stack on **Vox2You** (multi-tenant SaaS, Next.js 14, TypeScript, tRPC, Neo4j 5, Vercel)
+- **Arsenal Elevadores** — CRM + internal operations (React, Node, PostgreSQL, Docker, RBAC)
+
+---
+
+## How to evaluate me in 10 minutes
+
+1. Read **TrustHire** README → product sense + fraud/trust domain  
+2. Skim **BalcãoIA** → Next.js architecture, compliance guardrails, tests  
+3. Skim **BridgeTrace-AI** → graphs + GenAI explainability  
+4. Check **Meridian** → governance mindset  
+5. Message me: `felipe.of.dev@gmail.com`
+
+No white-text resume tricks. No fake cert badges. Code and READMEs are the interview.
+
+---
+
+## Labs (optional cloud / DX demos)
+
+Lightweight starters used for interviews / teaching patterns (not replacements for the products above):
+
+- Cloud patterns · vibe-coding ownership boundaries · brickchain ledger demos  
+  (local copies live under my AutoVaga workspace — ask if you want them published)
+
+---
+
+<p align="center">
+  <b>Remote · Brazil → Global · Full-Stack / Backend / AI Engineer</b><br/>
+  <i>If your team cares about trust, compliance, and shipping — let's talk.</i>
+</p>
