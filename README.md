@@ -13,6 +13,7 @@
 
 <p align="center">
   <a href="https://felipeofdev-ai.github.io/"><img src="https://img.shields.io/badge/%E2%96%B6_PLAY_CAREER_RPG-2868A8?style=for-the-badge" alt="Play Career RPG" /></a>
+  <a href="https://felipeofdev-ai.github.io/labs/"><img src="https://img.shields.io/badge/LABS_CONSOLE-0E1626?style=for-the-badge" alt="Labs Console" /></a>
   <a href="mailto:felipe.of.dev@gmail.com"><img src="https://img.shields.io/badge/HIRE_%2F_PARTY-felipe.of.dev%40gmail.com-E86058?style=for-the-badge" alt="Email" /></a>
   <a href="https://www.linkedin.com/in/felipe-de-oliveira-fernandes-941763110/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
 </p>
@@ -25,11 +26,14 @@ My GitHub is a **Career RPG**: chapters are real jobs and products, XP comes fro
 
 **▶ Play the map (3 minutes):** [https://felipeofdev-ai.github.io/](https://felipeofdev-ai.github.io/)
 
+**▶ Labs Console (click-through demos):** [https://felipeofdev-ai.github.io/labs/](https://felipeofdev-ai.github.io/labs/) — TrustHire risk score · Meridian integrity · BridgeTrace graph · CardOps decision · HITL guardrails
+
 Clear a chapter → open the real repo → Felipe’s level rises (progress saved in your browser via `localStorage`).
 
 > Soft homage to classic top-down adventure / trainer-quest *gameplay feel*.  
 > **Not affiliated with Nintendo, The Pokémon Company, Game Freak, Square Enix, or Final Fantasy.**  
-> No ROMs. No ripped assets. Career facts only — never fabricated employment or certs.
+> No ROMs. No ripped assets. Career facts only — never fabricated employment or certs.  
+> No “magic” wording — chapters, XP, guilds, raids, Focus meters only.
 
 ---
 
@@ -132,7 +136,7 @@ Practices: Scrum · Jira · Git Flow · code review · continuous deployment · 
 ## How to recruit in one run
 
 1. **[Play Career RPG](https://felipeofdev-ai.github.io/)** — walk the map, clear chapters  
-2. Open TrustHire + Meridian + MCP/RAG/HITL (or the guild chapters)  
+2. **[Labs Console](https://felipeofdev-ai.github.io/labs/)** — TrustHire · Meridian · BridgeTrace · CardOps · HITL / RAG / MCP  
 3. Victory menu → **Hire / Email** → `felipe.of.dev@gmail.com`  
 4. Optional cinematic surface: [Orbit Mode](https://felipeofdev-ai.github.io/orbit.html)
 
