@@ -26,6 +26,11 @@
 | 🕸️ **BridgeTrace-AI** | Risk / compliance researchers | [BridgeTrace-AI](https://github.com/felipeofdev-ai/BridgeTrace-AI) |
 | 📜 **Meridian** | Eng governance teams | [Meridian](https://github.com/felipeofdev-ai/Meridian) |
 | 💳 **CardOpsAI** | Payments risk ops | [CardOpsAI](https://github.com/felipeofdev-ai/CardOpsAI) |
+| 🧬 **PHILO AI OS** | Agentic multi-LLM OS | (product narrative · CV) |
+| ⛓️ **brickchain-ledger** | Chain thinking demos | [brickchain-ledger](https://github.com/felipeofdev-ai/brickchain-ledger) |
+| ☁️ **aws-serverless-kit** | AWS Lambda lab | [aws-serverless-kit](https://github.com/felipeofdev-ai/aws-serverless-kit) |
+| 🔷 **azure-fn-starter** | Azure Functions lab | [azure-fn-starter](https://github.com/felipeofdev-ai/azure-fn-starter) |
+| 🎮 **vibe-code-arena** | Cursor/Claude ownership | [vibe-code-arena](https://github.com/felipeofdev-ai/vibe-code-arena) |
 
 ```text
  HP ████████████████░░  Ship velocity
