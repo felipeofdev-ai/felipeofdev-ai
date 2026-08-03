@@ -1,12 +1,12 @@
 <!--
-  Profile README — Felipe Fernandes
-  Aesthetic: cinematic space / film splash — not pixel RPG, not chiptune.
-  Live experience: https://felipeofdev-ai.github.io/
+  CHRONICLE OF FELIPE — original 16-bit JRPG homage portal
+  Playable game lives on GitHub Pages (README cannot run emulators/ROMs).
+  No Final Fantasy ROM or copyrighted assets are redistributed.
 -->
 
 <div align="center">
   <a href="https://felipeofdev-ai.github.io/">
-    <img src="./hero.png" alt="Felipe Fernandes — cinematic space portfolio" width="100%" />
+    <img src="./ff-banner.png" alt="Chronicle of Felipe — 16-bit engineering saga" width="100%" />
   </a>
 </div>
 
@@ -14,84 +14,88 @@
 
 <div align="center">
 
-# Felipe Fernandes
+```text
+╔══════════════════════════════════════════════════════════╗
+║          ★  C H R O N I C L E   O F   F E L I P E  ★     ║
+║──────────────────────────────────────────────────────────║
+║   NEW GAME                                      ● PLAY   ║
+║   CONTINUE (GitHub constellation)                        ║
+║   CONFIG  ·  music / voice on site                       ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-**Systems & Agentic AI Engineer** · Remote Brazil → Global
+# FELIPE — Crystal Engineer · L99
 
-[![Portfolio](https://img.shields.io/badge/Enter_Orbit-Cinematic_Portfolio-5EC8C0?style=for-the-badge)](https://felipeofdev-ai.github.io/)
-[![Email](https://img.shields.io/badge/Hire_me-felipe.of.dev@gmail.com-C9A86A?style=for-the-badge)](mailto:felipe.of.dev@gmail.com)
+**Class:** Systems & Agentic AI Engineer  
+**Job:** Full-Stack · Agents · Trust Systems  
+**Realm:** São José dos Campos → Remote Global
+
+[![▶ PLAY IN BROWSER](https://img.shields.io/badge/%E2%96%B6_PLAY_CHRONICLE-4060C8?style=for-the-badge)](https://felipeofdev-ai.github.io/)
+[![Party Invite](https://img.shields.io/badge/PARTY_INVITE-Email-F0D060?style=for-the-badge)](mailto:felipe.of.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/felipe-de-oliveira-fernandes-941763110/)
-[![GitHub](https://img.shields.io/badge/GitHub-felipeofdev--ai-181717?style=for-the-badge&logo=github)](https://github.com/felipeofdev-ai)
 
-*I ship production systems where trust, citations, and human checkpoints matter —*  
-*the craft bar Fortune‑500 engineering orgs hire for.*
-
-**→ [Open the cinematic portfolio](https://felipeofdev-ai.github.io/)** · constellation of real products, not slides.
+<img src="./ff-hero.png" width="200" alt="Felipe — original JRPG hero portrait" />
 
 </div>
 
 ---
 
 <div align="center">
-  <a href="https://felipeofdev-ai.github.io/">
-    <img src="./banner.png" alt="FF — systems constellation" width="100%" />
-  </a>
+
+### ⚔️ You don’t read this README — you **play** it
+
+Walk the overworld → attune crystals → open real GitHub quests  
+*(Original homage to classic SNES JRPG UX — **not** Final Fantasy / Nintendo IP.)*
+
+**→ [https://felipeofdev-ai.github.io/](https://felipeofdev-ai.github.io/)**
+
 </div>
 
 ---
 
-## Constellation · flagship systems
+## 🗺️ Party status
 
-| System | What it proves |
-|--------|----------------|
-| [**TrustHire**](https://github.com/felipeofdev-ai/trusthire) | Hiring fraud defense — FastAPI risk signals before you trust an offer |
-| [**BalcãoIA**](https://github.com/felipeofdev-ai/balcaoia-local) | Local commerce AI — catalog, scripts, compliance-first channels |
-| [**BridgeTrace-AI**](https://github.com/felipeofdev-ai/BridgeTrace-AI) | Graph + GenAI finrisk explainability (synthetic data) |
-| [**Meridian**](https://github.com/felipeofdev-ai/Meridian) | Append-only audit · Ed25519 · policy-minded governance |
-| [**CardOpsAI**](https://github.com/felipeofdev-ai/CardOpsAI) | Payments risk OS — SQL-native operational intelligence |
-| [**forge-mcp-server**](https://github.com/felipeofdev-ai/forge-mcp-server) | MCP tools for agent hosts — 2026 developer stack |
-| [**agentic-rag-cite**](https://github.com/felipeofdev-ai/agentic-rag-cite) | RAG that refuses answers without citations |
-| [**hitl-langgraph-kit**](https://github.com/felipeofdev-ai/hitl-langgraph-kit) | HITL interrupt before irreversible agent actions |
-| [**aws-serverless-kit**](https://github.com/felipeofdev-ai/aws-serverless-kit) · [**azure-fn-starter**](https://github.com/felipeofdev-ai/azure-fn-starter) | Cloud labs — serverless patterns on AWS & Azure |
+```text
+ FELIPE ................. HP ████████████░░  MP ███████████░░░
+ Class: Crystal Engineer  XP ████████░░░░░░  4+ yrs production
+```
 
-<p align="center">
-  <a href="https://felipeofdev-ai.github.io/"><strong>Explore interactively → felipeofdev-ai.github.io</strong></a>
-</p>
+| Crystal | Quest | Why recruiters care |
+|---------|-------|---------------------|
+| 🛡️ TrustHire | [repo](https://github.com/felipeofdev-ai/trusthire) | Fraud / hiring-scam AI |
+| 📜 Meridian | [repo](https://github.com/felipeofdev-ai/Meridian) | Append-only audit governance |
+| 🧬 PHILO AI OS | [repo](https://github.com/felipeofdev-ai/philo-ai-os) | Multi-agent / multi-LLM OS |
+| 🕸️ BridgeTrace | [repo](https://github.com/felipeofdev-ai/BridgeTrace-AI) | Graph + GenAI finrisk |
+| ⚒️ Forge MCP | [repo](https://github.com/felipeofdev-ai/forge-mcp-server) | MCP tools (2026 hiring signal) |
+| 📚 RAG Cite | [repo](https://github.com/felipeofdev-ai/agentic-rag-cite) | Citation-mandatory RAG |
+| ⏸️ HITL Kit | [repo](https://github.com/felipeofdev-ai/hitl-langgraph-kit) | interrupt() before irreversible acts |
 
----
-
-## Stack
-
-`TypeScript` `Next.js` `React` `Node.js` `Python` `FastAPI` `PostgreSQL` `Neo4j` `Docker` `AWS` `Azure` `MCP` `RAG` `LangGraph` `tRPC` `Zod`
-
-> Certifications listed only with public credential URLs — never invented badges.
-
-## Day work
-
-- **WR IT Solutions** — Full-Stack · Vox2You multi-tenant SaaS (Next.js, tRPC, Neo4j)
-- **Arsenal Elevadores** — Software Developer · CRM + ops (React, Node, PostgreSQL, Docker)
-
-## Open source signal
-
-[TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) — **17 PRs** merged into a 218k★ repository.
-
-Also: [generative-ai-playground](https://github.com/felipeofdev-ai/generative-ai-playground) · [philo-ai-os](https://github.com/felipeofdev-ai/philo-ai-os) · [trusthire-frontend](https://github.com/felipeofdev-ai/trusthire-frontend)
+**Inventory:** `TypeScript` `Next.js` `Python/FastAPI` `PostgreSQL` `Neo4j` `Docker` `AWS hands-on` `LangGraph patterns` `MCP` `Zod`
 
 ---
 
-## Contact
+## 🏰 Day-job guilds
 
-| | |
-|--|--|
-| **Email** | [felipe.of.dev@gmail.com](mailto:felipe.of.dev@gmail.com) |
-| **Portfolio** | [felipeofdev-ai.github.io](https://felipeofdev-ai.github.io/) |
-| **LinkedIn** | [Felipe Fernandes](https://www.linkedin.com/in/felipe-de-oliveira-fernandes-941763110/) |
-| **GitHub** | [felipeofdev-ai](https://github.com/felipeofdev-ai) |
+- **WR IT Solutions** — Full-Stack · Vox2You multi-tenant SaaS  
+- **Arsenal Elevadores** — Software Developer · CRM + ops  
+
+## 🌟 Raid clears (OSS)
+
+- **TheAlgorithms/Python** — 17+ PRs · new: Tonelli–Shanks, BSGS  
+- **home-assistant/core** — OpenAI Conversation quality-scale  
+- **NVIDIA/cutlass · Nubank · Bevy · Godot** — recent prestige PRs  
+
+---
+
+## 📣 How to recruit in one dungeon run
+
+1. [Play the Chronicle](https://felipeofdev-ai.github.io/)  
+2. Clear TrustHire + Meridian + MCP crystals  
+3. Send party invite → `felipe.of.dev@gmail.com`
+
+---
 
 <p align="center">
-  <b>Open to remote Senior Full-Stack / Backend / AI Engineer roles.</b><br/>
-  Brief → inbox. Portfolio first if you prefer signal over PDFs.<br/><br/>
-  <a href="https://felipeofdev-ai.github.io/"><strong>Enter Orbit</strong></a>
-  ·
-  <a href="mailto:felipe.of.dev@gmail.com">felipe.of.dev@gmail.com</a>
+  <i>Original game presentation. No ROMs redistributed. Career facts only.</i><br/>
+  <b>Looking for a party that values trust, citations, and shipping.</b>
 </p>
