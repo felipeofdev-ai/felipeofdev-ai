@@ -34,7 +34,9 @@
 [![Party Invite](https://img.shields.io/badge/PARTY_INVITE-Email-F0D060?style=for-the-badge)](mailto:felipe.of.dev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/felipe-de-oliveira-fernandes-941763110/)
 
-<img src="./ff-hero.png" width="200" alt="Felipe — original JRPG hero portrait" />
+<img src="./felipe-photo.jpg" width="200" alt="Felipe Fernandes — Crystal Engineer" />
+<br/>
+<img src="./ff-hero.png" width="160" alt="Felipe — JRPG stylized portrait" />
 
 </div>
 
