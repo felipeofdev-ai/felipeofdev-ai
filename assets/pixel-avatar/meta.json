@@ -1,0 +1,12 @@
+{
+  "source": "c:\\Users\\User\\Desktop\\curriculos\\data\\github-profile\\assets\\felipe-photo.jpg",
+  "size_px": 40,
+  "frames": [
+    "idle",
+    "crouch",
+    "jump",
+    "fall",
+    "victory"
+  ],
+  "output_dir": "C:\\Users\\User\\Desktop\\curriculos\\data\\github-profile\\assets\\pixel-avatar"
+}
