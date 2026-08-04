@@ -1,4 +1,4 @@
-<!-- Felipe Oliveira Fernandes · GitHub Profile README · 2026-08 -->
+﻿<!-- Felipe Oliveira Fernandes · GitHub Profile README · 2026-08 -->
 <!-- Source: data/github-profile/ → felipeofdev-ai/felipeofdev-ai -->
 
 <div align="center">
@@ -180,7 +180,7 @@ Selected projects — real repos, honest scope.
 <table>
 <tr>
 <td align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=felipeofdev-ai&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&title_color=FFD700&text_color=00FF00&icon_color=4ECDC4&border_color=333&rank_icon=percentile" alt="GitHub stats for felipeofdev-ai" width="465" />
+<img src="https://github-readme-stats-fork.vercel.app/api?username=felipeofdev-ai&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&title_color=FFD700&text_color=00FF00&icon_color=4ECDC4&border_color=333&rank_icon=percentile" alt="GitHub stats for felipeofdev-ai" width="465" />
 </td>
 <td align="center">
 <img src="https://streak-stats.demolab.com/?user=felipeofdev-ai&theme=chartreuse-dark&background=0D1117&border=333&ring=FFD700&fire=FF6B6B&currStreakLabel=00FF00" alt="GitHub contribution streak for felipeofdev-ai" width="465" />
@@ -190,16 +190,11 @@ Selected projects — real repos, honest scope.
 
 <br/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=felipeofdev-ai&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=4&title=MultiLanguage,Commits,PullRequest,Issue" alt="GitHub profile trophies for felipeofdev-ai" width="720" />
+<img src="https://profile-trophy.vercel.app/?username=felipeofdev-ai&theme=discord&no-frame=true&no-bg=true&margin-w=4&column=4&title=MultiLanguage,Commits,PullRequest,Issue" alt="GitHub profile trophies for felipeofdev-ai" width="720" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/felipeofdev-ai/felipeofdev-ai/main/dist/github-contribution-grid-snake.svg" alt="Contribution activity snake for felipeofdev-ai" width="720" onerror="this.style.display='none';document.getElementById('snake-fallback').style.display='block';" />
-
-<p id="snake-fallback" style="display:none;font-family:monospace;color:#00FF00;background:#0D1117;padding:12px;border:1px solid #333;">
-  🐍 Snake loading — generated nightly by GitHub Actions.<br/>
-  Run <a href="https://github.com/felipeofdev-ai/felipeofdev-ai/actions/workflows/snake.yml">Generate contribution snake</a> if this is your first visit.
-</p>
+<img src="https://raw.githubusercontent.com/felipeofdev-ai/felipeofdev-ai/main/dist/github-contribution-grid-snake.svg" alt="Contribution activity snake" width="720" />
 
 <sub>Stats refresh on demand · snake updates daily at 03:00 UTC</sub>
 
