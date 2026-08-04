@@ -3,33 +3,31 @@
 
 <div align="center">
 
-<!-- ═══════════════ HERO ═══════════════ -->
+<!-- ═══════════════ HEADER ═══════════════ -->
 
-<a href="https://felipeofdev-ai.github.io/snes-quest.html">
-  <img src="https://raw.githubusercontent.com/felipeofdev-ai/felipeofdev-ai/main/assets/hero.png?v=2" width="800" alt="Animated 16-bit platformer hero — Felipe Oliveira Fernandes, Backend Developer" />
-</a>
+<img src="https://raw.githubusercontent.com/felipeofdev-ai/felipeofdev-ai/main/assets/banner-professional.png?v=3" width="800" alt="Felipe Oliveira Fernandes — Backend / Agent Systems Engineer" />
 
 <br/><br/>
 
-**Felipe Oliveira Fernandes** · Backend Developer<br/>
+**Felipe Oliveira Fernandes** · Backend / Agent Systems Engineer<br/>
 São José dos Campos, SP · Brasil · Remote · [`felipe.of.dev@gmail.com`](mailto:felipe.of.dev@gmail.com)
 
 <br/>
 
-<a href="#character-select">About</a> ·
+<a href="#about">About</a> ·
 <a href="#mission-briefing">Mission</a> ·
 <a href="#inventory">Stack</a> ·
-<a href="#quest-log">Projects</a> ·
+<a href="#featured-projects">Projects</a> ·
 <a href="#battle-results">Stats</a> ·
 <a href="#boss-raid">Raid</a> ·
 <a href="#co-op">Hire</a>
 
 <br/><br/>
 
-<a href="https://felipeofdev-ai.github.io/snes-quest.html"><img src="https://img.shields.io/badge/SNES_Quest-Play-2868A8?style=for-the-badge&labelColor=0D1117" alt="SNES Quest" /></a>
-<a href="https://felipeofdev-ai.github.io/"><img src="https://img.shields.io/badge/Portfolio-View-00FF00?style=for-the-badge&labelColor=0D1117" alt="Portfolio" /></a>
-<a href="https://felipeofdev-ai.github.io/labs/"><img src="https://img.shields.io/badge/Labs-Explore-4ECDC4?style=for-the-badge&labelColor=0D1117" alt="Labs" /></a>
+<a href="https://felipeofdev-ai.github.io/"><img src="https://img.shields.io/badge/Portfolio-View-22D3EE?style=for-the-badge&labelColor=0D1117" alt="Portfolio" /></a>
+<a href="https://felipeofdev-ai.github.io/labs/"><img src="https://img.shields.io/badge/Labs-Explore-0891B2?style=for-the-badge&labelColor=0D1117" alt="Labs" /></a>
 <a href="https://linkedin.com/in/felipe-de-oliveira-fernandes-941763110"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D1117" alt="LinkedIn" /></a>
+<a href="https://felipeofdev-ai.github.io/snes-quest.html"><img src="https://img.shields.io/badge/SNES_Quest-Play-30363D?style=for-the-badge&labelColor=0D1117" alt="SNES Quest" /></a>
 
 </div>
 
@@ -39,12 +37,12 @@ Backend engineer building production APIs, data systems, and agent pipelines —
 
 ---
 
-## Character Select
+## About
 
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║  FELIPE OLIVEIRA FERNANDES                                   ║
-║  Role .......... Backend Developer / API & Systems Engineer  ║
+║  Role .......... Backend / Agent Systems Engineer            ║
 ║  Tenure ........ Independent Backend · Sep 2022 → 4+ years   ║
 ║  Location ...... São José dos Campos, SP · Brasil · Remote   ║
 ║  Languages ..... PT native · EN professional working level   ║
@@ -119,7 +117,7 @@ Currently: production SaaS (multi-tenant), CRM platforms, fraud-detection APIs, 
 
 ---
 
-## Quest Log
+## Featured Projects
 
 Selected projects — real repos, honest scope.
 
