@@ -1,0 +1,32 @@
+name: "⚔ Boss Battle — SNES Raid"
+description: Start a turn-based boss fight. Comment /attack, /defend, /special, or /heal.
+title: "Boss Battle"
+labels:
+  - boss-battle
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## ⚔ README Boss Raid
+
+        GitHub Actions will reply with your battle scene. Comment one command per turn:
+
+        | Command | Action |
+        |---------|--------|
+        | `/attack` | Strike the boss |
+        | `/defend` | Guard (−50% damage taken) |
+        | `/special` | Code Review — heavy hit |
+        | `/heal` | Coffee break (+HP) |
+        | `/flee` | Retreat (no score) |
+
+        **Victories** update the [High Scores arcade](https://github.com/felipeofdev-ai#-high-scores--oss-arcade) on the profile README.
+
+        Full game → [SNES Quest](https://felipeofdev-ai.github.io/snes-quest.html)
+
+  - type: checkboxes
+    id: rules
+    attributes:
+      label: Ready?
+      options:
+        - label: I understand this is an original SNES homage — not Nintendo IP.
+          required: true
