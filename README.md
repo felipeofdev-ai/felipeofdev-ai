@@ -5,7 +5,9 @@
 
 <!-- ═══════════════ HERO ═══════════════ -->
 
-<img src="https://raw.githubusercontent.com/felipeofdev-ai/felipeofdev-ai/main/assets/hero.svg" alt="Animated 16-bit platformer hero — Felipe Oliveira Fernandes, Backend Developer" width="800" />
+<a href="https://felipeofdev-ai.github.io/snes-quest.html">
+  <img src="https://raw.githubusercontent.com/felipeofdev-ai/felipeofdev-ai/main/assets/hero.png?v=2" width="800" alt="Animated 16-bit platformer hero — Felipe Oliveira Fernandes, Backend Developer" />
+</a>
 
 <br/><br/>
 
