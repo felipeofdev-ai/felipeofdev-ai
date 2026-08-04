@@ -194,7 +194,7 @@ Selected projects — real repos, honest scope.
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/felipeofdev-ai/felipeofdev-ai/dist/github-contribution-grid-snake.svg" alt="Contribution activity snake for felipeofdev-ai" width="720" onerror="this.style.display='none';document.getElementById('snake-fallback').style.display='block';" />
+<img src="https://raw.githubusercontent.com/felipeofdev-ai/felipeofdev-ai/main/dist/github-contribution-grid-snake.svg" alt="Contribution activity snake for felipeofdev-ai" width="720" onerror="this.style.display='none';document.getElementById('snake-fallback').style.display='block';" />
 
 <p id="snake-fallback" style="display:none;font-family:monospace;color:#00FF00;background:#0D1117;padding:12px;border:1px solid #333;">
   🐍 Snake loading — generated nightly by GitHub Actions.<br/>
