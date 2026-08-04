@@ -99,7 +99,7 @@
     <g id="block-clj">
       <rect x="548" y="118" width="44" height="44" fill="#5881d8" stroke="#334f8a" stroke-width="3"/>
       <rect x="552" y="122" width="36" height="8" fill="#8aa8ef" opacity="0.6"/>
-      <text x="570" y="146" font-family="monospace" font-size="11" font-weight="bold" fill="#fff" text-anchor="middle">ù</text>
+      <text x="570" y="146" font-family="monospace" font-size="11" font-weight="bold" fill="#fff" text-anchor="middle">Œª</text>
       <animateTransform attributeName="transform" type="translate" values="0,0; 0,-6; 0,0" keyTimes="0; 0.12; 0.22" dur="3s" begin="3.25s" repeatCount="indefinite"/>
     </g>
   </g>
@@ -152,7 +152,7 @@
       <animate attributeName="rx" values="18;12;18;18;18" dur="3s" repeatCount="indefinite"/>
     </ellipse>
     <!-- photo-derived pixel avatar: assets/pixel-avatar/idle.png -->
-    <image href="pixel-avatar/idle.png" x="98" y="208" width="40" height="40" image-rendering="pixelated"/>
+    <image href="data:image/png;base64,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" x="98" y="208" width="40" height="40" image-rendering="pixelated"/>
     <rect x="134" y="218" width="14" height="10" fill="#334155" stroke="#64748b" stroke-width="1"/>
     <rect x="136" y="220" width="10" height="6" fill="#22d3ee" opacity="0.7"/>
   </g>
@@ -164,11 +164,10 @@
     <animate attributeName="opacity" values="1;1;0.3;1" dur="0.1s" begin="0s" repeatCount="indefinite" calcMode="discrete"/>
   </text>
   <text x="400" y="56" font-family="'Courier New', monospace" font-size="11" fill="#00ff88" text-anchor="middle" opacity="0.95">
-    Backend Developer ù Sùo Josù dos Campos, BR
+    Backend Developer ¬∑ S√£o Jos√© dos Campos, BR
   </text>
 
   <!-- PRESS START -->
-  <text x="400" y="288" font-family="'Courier New', monospace" font-size="11" font-weight="bold" fill="#ffd700" text-anchor="middle" filter="url(#textShadow)" class="blink">
-    ù PRESS START TO CONTINUE
+  <text x="400" y="288" font-family="'Courier New', monospace" font-size="11" font-weight="bold" fill="#ffd700" text-anchor="middle" filter="url(#textShadow)" class="blink">‚ñ∂ PRESS START TO CONTINUE
   </text>
 </svg>
