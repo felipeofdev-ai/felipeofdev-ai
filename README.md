@@ -109,9 +109,18 @@ CRM + internal ops: service orders, maintenance, customers, reporting, RBAC, das
 Multi-tenant SaaS for a public-speaking franchise network (6 roles). tRPC + Zod end-to-end, Neo4j 5 with PREVIOUS versioning, race/orphan fixes, Asaas payments, Vercel CD, Scrum/Jira.  
 *Stack:* Next.js 14 · React 18 · TypeScript · tRPC · Tailwind · Neo4j 5 · Firebase Auth · Vercel · PM2
 
-### Chapter 10 · OSS Raid clears
-- **Top contributor — [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python)** — 17 merged PRs · 5,000+ lines · 300+ unit tests · 100% CI  
-- Prestige rooms as PRs land: Home Assistant · NVIDIA · Nubank · Bevy · Godot  
+### Chapter 10 · OSS Raid clears & trophies
+
+**Merged trophies**
+| Trophy | Repo | PR |
+|--------|------|-----|
+| 🏆 Home Assistant quality-scale | [home-assistant/core](https://github.com/home-assistant/core) | [#178110](https://github.com/home-assistant/core/pull/178110) MERGED — OpenAI Conversation `PARALLEL_UPDATES` |
+| 🏆 TheAlgorithms/Python | [TheAlgorithms/Python](https://github.com/TheAlgorithms/Python) | **17 merged PRs** (historical) · 5,000+ lines · 300+ unit tests |
+
+**Active prestige raids (open — review queue)**  
+Nubank Clojure ecosystem · NVIDIA · TheAlgorithms (Python + JS) · GitHub CLI · Stagehand · OWASP · PicPay · Inter API client  
+
+> Bevy website PRs were closed/withdrawn to respect Bevy’s AI contribution policy.
 
 ### Education
 Systems Analysis and Development (Associate) · UniFatecie · Expected 2026
