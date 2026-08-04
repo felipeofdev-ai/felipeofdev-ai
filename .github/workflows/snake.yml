@@ -27,7 +27,9 @@ jobs:
       - name: Publish snake to profile dist
         run: |
           mkdir -p dist
-          cp dist/github-contribution-grid-snake-dark.svg dist/github-contribution-grid-snake.svg 2>/dev/null || true
+          if [ -f dist/github-contribution-grid-snake-dark.svg ]; then
+            cp dist/github-contribution-grid-snake-dark.svg dist/github-contribution-grid-snake.svg
+          fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add dist/
