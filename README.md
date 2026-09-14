@@ -43,7 +43,7 @@ Backend engineer building production APIs, data systems, and agent pipelines —
 ╔══════════════════════════════════════════════════════════════╗
 ║  FELIPE OLIVEIRA FERNANDES                                   ║
 ║  Role .......... Backend / Agent Systems Engineer            ║
-║  Tenure ........ Independent Backend · Sep 2022 → 4+ years   ║
+║  Tenure ........ Independent Backend · Sep 2021 → 5+ years   ║
 ║  Location ...... São José dos Campos, SP · Brasil · Remote   ║
 ║  Languages ..... PT native · EN professional working level   ║
 ╚══════════════════════════════════════════════════════════════╝
@@ -58,7 +58,7 @@ Backend engineer building production APIs, data systems, and agent pipelines —
 | **Problem Solving** | ████████████████████░ | Graph queries · CI · incident patterns |
 | **Collaboration** | █████████████████░░░ | Code review · docs · async remote teams |
 
-**Career path:** WR IT / Vox2You · Arsenal Elevadores · Independent Backend since Sep 2022.
+**Career path:** WR IT / Vox2You · Arsenal Elevadores · Independent Backend since Sep 2021.
 
 ---
 
@@ -273,13 +273,13 @@ Honest career phases — no inflated timelines.
 PHASE 1 · FOUNDATIONS          PHASE 2 · TEAMS                 PHASE 3 · OSS & AGENTS
 ─────────────────────          ───────────────────             ─────────────────────
 Backend craft · APIs           WR IT / Vox2You SaaS            Nubank Clojure campaign
-Independent · Sep 2022         Arsenal Elevadores CRM          AutoVaga · agent kits
-└─ 4+ years remote             └─ multi-tenant · RBAC          └─ evidence pipelines
+Independent · Sep 2021         Arsenal Elevadores CRM          AutoVaga · agent kits
+└─ 5+ years remote             └─ multi-tenant · RBAC          └─ evidence pipelines
 ```
 
 | Stage | Period | Focus | Outcome |
 |-------|--------|-------|---------|
-| **Foundations** | Sep 2022 → | Python/FastAPI · Docker · PostgreSQL | Independent Backend **4+ yrs** |
+| **Foundations** | Sep 2021 → | Python/FastAPI · Docker · PostgreSQL | Independent Backend **4+ yrs** |
 | **WR IT / Vox2You** | 2026 | Multi-tenant SaaS · Neo4j · tRPC | Full-stack delivery at scale |
 | **Arsenal Elevadores** | 2026 | CRM · RBAC · internal ops | Business-critical platforms |
 | **OSS campaign** | 2026 | HA · Algorithms · Nu · Stagehand | Maintainer-reviewed contributions |
