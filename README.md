@@ -33,7 +33,7 @@ São José dos Campos, SP · Brasil · Remote · [`felipe.of.dev@gmail.com`](mai
 
 <br/>
 
-Backend engineer building production APIs, data systems, and agent pipelines — **4+ years** shipping since Sep 2022. I design systems that hold up under real traffic, real data, and real review.
+Backend engineer building production APIs, data systems, and agent pipelines — **5+ years** shipping since Sep 2022. I design systems that hold up under real traffic, real data, and real review.
 
 ---
 
